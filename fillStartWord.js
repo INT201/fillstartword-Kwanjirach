@@ -10,7 +10,7 @@ function fillStartWord(startWord, word) {
     return word
   }
   else{
-    return startWord
+    return startWord+word
   }
   // // 4
   //   if(word === null){
